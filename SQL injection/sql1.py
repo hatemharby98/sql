@@ -1,3 +1,4 @@
+# give this script url+"payload" then it tell you found sql or not
 import sys
 import requests
 import urllib3
